@@ -23,3 +23,5 @@ A Machine Learning project built using Scikit-learn to predict house prices thro
 
 ## Author
 **Rishabh Redewal**
+
+- `model.pkl` → Trained ML model (excluded due to file size limit)
