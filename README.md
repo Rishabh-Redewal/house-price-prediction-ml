@@ -1,5 +1,9 @@
 # House Price Prediction ML
 
+## 🚀 Live Demo
+
+[Try the House Price Prediction App](http://192.168.29.219:8501)
+
 A Machine Learning project built using Scikit-learn to predict house prices through data preprocessing and ML pipelines.
 
 ## Features
